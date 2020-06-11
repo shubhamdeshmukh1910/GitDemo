@@ -15,5 +15,10 @@ public class Hooks {
 			obj.user_calls_API_with_http_request("AddPlaceAPI", "POST");
 			obj.vetrify_place_id_created_maps_to_using("Test", "getPlaceAPI");
 		}
+		
+		System.out.println("Test1");
+		System.out.println("Test2");
+		System.out.println("Test3");
+		System.out.println("Test4");
 	}
 }
